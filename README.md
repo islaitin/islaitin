@@ -1,4 +1,4 @@
-Hi, I'm a consultant working with cloud and security. Mostly in Microsoft M365, Azure and Sentinel.
+Hi, I'm a consultant working with cloud and security. Mostly in Microsoft M365, Azure and Sentinel. Sometimes poking into Terraform and K8S.
 
 
 <!---
