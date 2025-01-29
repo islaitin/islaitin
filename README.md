@@ -1,4 +1,4 @@
-Hi, I'm a consultant working with cloud and security. Mostly in Microsoft M365, Azure and Sentinel. 
+Hi, I'm a consultant working with cloud and security. Mostly in Microsoft M365, Azure and Sentinel. At free time I like to improve my homelab.
 
 
 <!---
